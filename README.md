@@ -106,6 +106,7 @@ We found no official Lichess app in the ChatGPT or Claude directories. Cotlet.de
 - [Lichess on Cotlet.dev](https://cotlet.dev/integrations/lichess-api-mcp-server?utm_source=github&utm_medium=readme&utm_campaign=lichess&utm_content=find)
 - [PyPI package lichess-mcp](https://pypi.org/project/lichess-mcp/)
 - [Odel](https://odel.app/modules/cotlet/lichess)
+- [mcpbeat](https://mcpbeat.com/mcp-servers/cotlet/lichess/)
 - [Step-by-step guide (PDF) on Internet Archive](https://archive.org/details/cotlet-connect-lichess-to-ai-agents-guide)
 
 ## Also works with
